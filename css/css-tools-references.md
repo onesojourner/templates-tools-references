@@ -1,6 +1,6 @@
 # CSS
 ## Tools 
-* [CSS Validation Tools] (https://www.projectwallace.com/) 
+* [CSS Analytics] (https://www.projectwallace.com/) 
 * [Specicicity Calculator] (https://polypane.app/css-specificity-calculator/)
 
 ## Guides
