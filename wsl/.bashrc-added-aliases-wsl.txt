@@ -1,1 +1,4 @@
-
+alias c='cd /mnt/c'
+alias od='cd /mnt/c/Users/jm_he/OneDrive'
+alias cssh='cd /mnt/c/Users/jm_hess/.ssh'
+alias chome='cd /mnt/c/Users/jm_hess'
