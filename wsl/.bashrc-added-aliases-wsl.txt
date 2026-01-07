@@ -1,4 +1,6 @@
+Created .bash_aliases file with the following:
+
 alias c='cd /mnt/c'
-alias chome='cd /mnt/c/Users/jm_hess'
+alias chome='cd /mnt/c/Users/jm_he'
 alias cod='cd /mnt/c/Users/jm_he/OneDrive'
-alias cssh='cd /mnt/c/Users/jm_hess/.ssh'
+alias cssh='cd /mnt/c/Users/jm_he/.ssh'
