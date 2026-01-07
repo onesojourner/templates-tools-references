@@ -1,0 +1,7 @@
+Created .bash_aliases file with the following:
+
+alias c='cd /mnt/c'
+alias chome='cd /mnt/c/Users/jm_he'
+alias cod='cd /mnt/c/Users/jm_he/OneDrive'
+alias cssh='cd /mnt/c/Users/jm_he/.ssh'
+alias githome='cd /mntc/Users/jm_he/OneDrive/github'

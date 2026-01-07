@@ -4,3 +4,7 @@ Repo for standard, reusuable templates. Additionally, tools and key references a
 1. Make of branxh main.
 3. Clone the branch. 
 3. Undertand amd practice commits, pull requests, reviews, amd merges.
+
+###Boilerplate HTML & CSS Templates
+* Review the html and css folders in this repo.
+* Review/use the [forked html5 boilerplate repo] (<https://github.com/onesojourner/fork-html5-boilerplate/tree/branch>) for both an HTML5 and CSS templates.
